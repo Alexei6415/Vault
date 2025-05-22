@@ -59,7 +59,7 @@ Craze - formation prior to cracking in thermoplastics
 - microvoids and fibrillar bridges form ( with aligned chains)
 
 
-### Factors influencing Mechanical Properties of SemiCrystalline Polymers
+### Factors influencing Mechanical Properties of Semi-Crystalline Polymers
 Increase in Strength -> restraint in alignment of polymer chains-> e.g. entanglements and intermolecular bonding
 Increase in E -> increase in secondary bond strength and chain alignment
 
