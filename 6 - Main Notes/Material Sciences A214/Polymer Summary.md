@@ -137,8 +137,8 @@ Primary use in textiles and composites (aramid fibers)
 	Usually highly crystalline & highly polar
 Formed by spinning 
 	Extrude polymer through spinneret
-		Pt plate with 1000's oh holes
-		The fibers are drawn under tension
+		Pt plate with 1000's of holes
+		The fibres are drawn under tension
 		Leads to highly aligned chains - fibrillar structure
 
 ### Various Applications

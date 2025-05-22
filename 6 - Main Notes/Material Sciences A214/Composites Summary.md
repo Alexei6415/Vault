@@ -131,7 +131,7 @@ Expensive, restricted use
 High service temperatures: can be reactive (requires protective surface coating on reinforcement)
 Processing:(1) consolidation of reinforcement into matrix, (2) shaping( discontinuous fibres - standard metal shaping methods)
 Applications: 
-	Automobile/aircraft pats ( aluminium alloy - aluminium oxide/carbon) - lightweights and wear resistant
+	Automobile/aircraft parts ( aluminium alloy - aluminium oxide/carbon) - lightweights and wear resistant
 	Turbine engines ( superalloy matrix - refractory metal fibre reinforcement)
 		high temperature and oxidation resistance
 
